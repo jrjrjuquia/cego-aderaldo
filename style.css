@@ -72,17 +72,17 @@ section > p {
     padding-bottom: 1em;
 }
 section#img01 {
-    background-image: url('img/img1.jpg');
+    background-image: url('img1.jpg');
     background-position: right center;
    
 }
 section#img02 {
-    background-image: url('img/img2.png');
+    background-image: url('img2.png');
     background-position: right center;
     
 }
 section#img03 {
-    background-image: url('img/img3.jpg');
+    background-image: url('img3.jpg');
     background-position: right center;
 }
 footer {
